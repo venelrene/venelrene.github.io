@@ -74,12 +74,12 @@ body {
   width:100%;
   height:100%;
   z-index:9999;
-  background-color:#57BDDB;
-  background: -webkit-linear-gradient(90deg, #4CB8C4 10%, #3CD3AD 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, #4CB8C4 10%, #3CD3AD 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, #4CB8C4 10%, #3CD3AD 90%); /* IE10 */
-  background:      -o-linear-gradient(90deg, #4CB8C4 10%, #3CD3AD 90%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, #4CB8C4 10%, #3CD3AD 90%); /* W3C */
+  background-color:#4B318A;
+  background: -webkit-linear-gradient(90deg, #4b38d3 10%, #4f38ff 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #4b38d3 10%, #4b38d3 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #4b38d3 10%, #3c2576 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #4b38d3 10%, #4753ca 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #4b38d3 10%, #3c2576 90%); /* W3C */
 
 }
 
@@ -320,7 +320,7 @@ ul#nav li i {
   border: 5px solid #b1b2b4;
   border-radius: 50%;
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
-  height: auto;
+  height: 100%;
   width: 100%;
 }
 
@@ -543,7 +543,7 @@ body.show-menu #left-nav {
   border: 5px solid #b1b2b4;
   border-radius: 100%;
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
-  height: auto;
+  height: 244px;
   margin: 15px auto;
   position: relative;
   width: 100%;
@@ -876,25 +876,25 @@ body.show-menu #left-nav {
 
 .ruby {
   background: #1abc9c;
-  width: 92%;
+  width: 65%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .rails {
   background: #e74c3c;
-  	width: 90%;
+  	width: 70%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .javascript {
   background: #34495e;
-  	width: 70%;
+  	width: 40%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .jquery {
   background: #3498db;
-  	width: 72%;
+  	width: 45%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -906,7 +906,7 @@ body.show-menu #left-nav {
 }
 .css {
   background: #9b59b6;
-  	width: 65%;
+  	width: 52%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -1060,7 +1060,7 @@ body.show-menu #left-nav {
 	 transition: opacity 0.3s ease-in-out;
 
    background: #ed5565;
-   background: rgba(237,85,101, .9);
+   background: rgba(12, 41, 69, 1);
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
