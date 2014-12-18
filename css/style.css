@@ -160,7 +160,10 @@ header .banner {
    position: relative;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text {
+    width: 100%;
+    padding-top: 200px;
+}
 header .banner-text h1 {
    font-family: 'Raleway', sans-serif;
    color: #fff;
@@ -170,7 +173,7 @@ header .banner-text h1 {
 
 header .banner-text h1 span {
   font-weight: 900;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 
