@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a2154f-de92-4da3-8a92-46964becaae1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg-1.jpg" afterPath="$PROJECT_DIR$/images/bg-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg-2.jpg" afterPath="$PROJECT_DIR$/images/bg-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg-3.jpg" afterPath="$PROJECT_DIR$/images/bg-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/profile-pic.jpg" afterPath="$PROJECT_DIR$/images/profile-pic.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/sendEmail.php" afterPath="$PROJECT_DIR$/inc/sendEmail.php" />
     </list>
     <ignored path="taylormartin.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55282557" vertical-offset="4215" max-vertical-offset="6090">
-              <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.55282557" vertical-offset="2400" max-vertical-offset="6075">
+              <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -294,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55282557" vertical-offset="4215" max-vertical-offset="6090">
-          <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.55282557" vertical-offset="2400" max-vertical-offset="6075">
+          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
           <folding>
             <element signature="tag#div#0;tag#div#0;tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
