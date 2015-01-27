@@ -12,7 +12,7 @@
   $(window).load(function(){
 
     $('.loader').fadeOut();
-    $('#preloader').delay(50).fadeOut('slow');
+    $('#preloader').delay(50).fadeOut('fast');
     $('body').delay(50);
 
     });
