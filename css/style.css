@@ -890,7 +890,7 @@ body.show-menu #left-nav {
   	-webkit-animation: illustrator 2s ease;
 }
 .javascript {
-  background: #34495e;
+  background: 34495e#;
   	width: 40%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
@@ -902,7 +902,7 @@ body.show-menu #left-nav {
   	-webkit-animation: css 2s ease;
 }
 .html {
-  background: #d35400;
+  background: #34495e;
   	width: 65%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
