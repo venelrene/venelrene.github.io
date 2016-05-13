@@ -1091,6 +1091,8 @@ body.show-menu #left-nav {
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+    width: 205px;
+    height: 180px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
