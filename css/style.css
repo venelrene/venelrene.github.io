@@ -889,9 +889,9 @@ body.show-menu #left-nav {
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.javascript {
-  background: 34495e#;
-  	width: 40%;
+.coffeescript {
+  background: #f88100;
+  	width: 73%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
