@@ -8,6 +8,17 @@ _site
 
 *.xml
 
-.idea/modules.xml
+.idea/
 
 .idea/misc.xml
+
+*.iml
+
+.idea/modules.xml
+
+.idea/modules.xml
+
+*.iml
+
+
+*.xml
