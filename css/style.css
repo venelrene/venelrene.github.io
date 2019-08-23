@@ -553,6 +553,10 @@ body.show-menu #left-nav {
   z-index: 2;
 }
 
+.profile-cover {
+  object-fit: cover
+}
+
 #about figure {
   background: rgba(0,0,0, .6);
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
